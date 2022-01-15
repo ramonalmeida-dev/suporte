@@ -71,7 +71,7 @@ const Index = ({ downloads = [] }) => {
 
 Index.getInitialProps = async () => {
   // Here we call the API and request 5 documents
-  const response = await getData({ pageSize: 10});
+  const response = await getData({ pageSize: 20});
   return {
     downloads: response.results
   };
