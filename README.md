@@ -1,6 +1,6 @@
 
 ## Site de Download com Prismic + Nextjs + Vercel
-https://idxsuporte.vercel.app/
+
 First, run the development server:
 
 ```bash
