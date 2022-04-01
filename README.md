@@ -1,5 +1,9 @@
+## Descrição
+Site para agrupar e facilitar o download do sistema fiscal e seus utilitarios de instalação.
 
-## Site de Download com Prismic + Nextjs + Vercel
+## Stack
+Prismic + Nextjs + Tailwindcss + Vercel
+
 
 First, run the development server:
 
