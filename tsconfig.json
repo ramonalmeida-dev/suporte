@@ -14,6 +14,6 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/getData.js", "components/Layout/index.js", "pages/index.jsx", "pages/tef.jsx", "components/Modal/index.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/getData.js", "components/Layout/index.js", "pages/download.jsx", "pages/tef.jsx", "components/Modal/index.jsx", "pages/_app.jsx"],
   "exclude": ["node_modules"]
 }
