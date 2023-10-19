@@ -71,7 +71,7 @@ const utils = ({ utilsdownload = [] }) => {
 
 utils.getInitialProps = async () => {
   // Here we call the API and request 5 documents
-  const response = await getDataUtils({ pageSize: 30});
+  const response = await getDataUtils({ pageSize: 50});
   return {
     utilsdownload: response.results
   };
